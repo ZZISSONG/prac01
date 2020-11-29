@@ -5,3 +5,4 @@ def print_dan(x):
 print_dan(2)
 
 # 의미없는 주석 1줄
+# 의미없는 주석 2줄
